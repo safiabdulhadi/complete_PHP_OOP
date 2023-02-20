@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 require_once('class/Cart.php');
 
 
@@ -11,4 +11,4 @@ var_dump($cart->getTotalPrice());
 
 
 
-?>
+?> -->
